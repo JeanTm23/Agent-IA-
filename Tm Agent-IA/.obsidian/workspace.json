@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "test git/titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenue"
-            }
-          }
-        ]
-      },
-      {
-        "id": "85cb7116e9cffa95",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "01a356458b96b8ee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "titre"
             }
           }
         ]
@@ -115,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "test git/titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "test git/titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "test git/titre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,11 +185,13 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c53a4be0c2da2f85",
   "lastOpenFiles": [
-    "Bienvenue.md"
+    "test git",
+    "test git/titre.md"
   ]
 }
