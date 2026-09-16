@@ -185,8 +185,7 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Créer une nouvelle base": false
     }
   },
   "active": "c53a4be0c2da2f85",
